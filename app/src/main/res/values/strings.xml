@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media Downloader</string>
+    
+    <string name="nav_home">Home</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+    
+    <string name="home_title">Media Downloader</string>
+    <string name="home_search_button">Search</string>
+    <string name="home_search_hint">Search downloads</string>
+    <string name="home_url_label">Video or Audio URL</string>
+    <string name="home_url_hint">Paste URL here</string>
+    <string name="home_paste_button">Paste</string>
+    <string name="home_clear_button">Clear</string>
+    <string name="home_analyze_button">Analyze</string>
+    <string name="home_recent_downloads">Recent Downloads</string>
+    <string name="home_recently_played">Recently Played</string>
+    <string name="home_quick_actions">Quick Actions</string>
+    <string name="home_action_videos">Videos</string>
+    <string name="home_action_audio">Audio</string>
+    <string name="home_action_downloading">Downloading</string>
+    
+    <string name="analyze_title">Media Details</string>
+    <string name="analyze_thumbnail_description">Media thumbnail</string>
+    <string name="analyze_title_label">Title</string>
+    <string name="analyze_duration_label">Duration</string>
+    <string name="analyze_source_label">Source</string>
+    <string name="analyze_qualities_label">Available Video Qualities</string>
+    <string name="analyze_formats_label">Available Audio Formats</string>
+    <string name="analyze_quality_selected">Selected: %s</string>
+    <string name="analyze_format_selected">Format: %s</string>
+    
+    <string name="download_video">Download Video</string>
+    <string name="download_video_clip">Download Video Clip</string>
+    <string name="download_audio">Download Audio</string>
+    
+    <string name="downloads_tab_videos">Video</string>
+    <string name="downloads_tab_audio">Audio</string>
+    <string name="downloads_tab_downloading">Downloading</string>
+    <string name="downloads_empty">No downloads yet</string>
+    <string name="downloads_status_downloading">Downloading</string>
+    <string name="downloads_status_paused">Paused</string>
+    <string name="downloads_status_queued">Queued</string>
+    <string name="downloads_status_failed">Failed</string>
+    <string name="downloads_pause_button">Pause</string>
+    <string name="downloads_resume_button">Resume</string>
+    <string name="downloads_cancel_button">Cancel</string>
+    <string name="downloads_retry_button">Retry</string>
+    
+    <string name="library_title">Title</string>
+    <string name="library_duration">Duration</string>
+    <string name="library_size">Size</string>
+    <string name="library_date">Date</string>
+    <string name="library_format">Format</string>
+    <string name="library_resolution">Resolution</string>
+    <string name="library_more_actions">More Actions</string>
+    
+    <string name="selection_count">%d items selected</string>
+    <string name="selection_select_all">Select All</string>
+    <string name="selection_cancel">Cancel</string>
+    <string name="selection_share">Share</string>
+    <string name="selection_delete">Delete</string>
+    
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_rewind">Rewind</string>
+    <string name="player_forward">Forward</string>
+    <string name="player_previous">Previous</string>
+    <string name="player_next">Next</string>
+    <string name="player_speed">Playback Speed</string>
+    <string name="player_more">More Actions</string>
+    <string name="player_share">Share</string>
+    <string name="player_rename">Rename</string>
+    <string name="player_file_info">File Information</string>
+    <string name="player_position">Position %s of %s</string>
+    
+    <string name="clip_editor_title">Edit Clip</string>
+    <string name="clip_editor_play">Play</string>
+    <string name="clip_editor_pause">Pause</string>
+    <string name="clip_editor_rewind">Rewind</string>
+    <string name="clip_editor_forward">Forward</string>
+    <string name="clip_editor_set_split">Set Split Point</string>
+    <string name="clip_editor_start_time_label">Start Time</string>
+    <string name="clip_editor_end_time_label">End Time</string>
+    <string name="clip_editor_delete_start">Delete Starting Part</string>
+    <string name="clip_editor_delete_middle">Delete Middle Part</string>
+    <string name="clip_editor_delete_end">Delete Ending Part</string>
+    <string name="clip_editor_undo">Undo</string>
+    <string name="clip_editor_preview">Preview Result</string>
+    <string name="clip_editor_download">Download Now</string>
+    <string name="clip_editor_split_info">Split points: %d</string>
+    <string name="clip_editor_remaining_duration">Remaining duration: approximately %s</string>
+    
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_download">Download</string>
+    <string name="settings_download_location">Download Location</string>
+    <string name="settings_default_video_quality">Default Video Quality</string>
+    <string name="settings_default_audio_format">Default Audio Format</string>
+    <string name="settings_duplicate_handling">Duplicate File Handling</string>
+    <string name="settings_clipboard_detection">Clipboard Detection</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_download_started">Download Started</string>
+    <string name="settings_download_progress">Download Progress</string>
+    <string name="settings_download_completed">Download Completed</string>
+    <string name="settings_download_failed">Download Failed</string>
+    <string name="settings_playback_notification">Playback Notification</string>
+    <string name="settings_storage">Storage</string>
+    <string name="settings_storage_management">Storage Management</string>
+    <string name="settings_clear_history">Clear Download History</string>
+    <string name="settings_clear_temp">Clear Temporary Files</string>
+    <string name="settings_app">App</string>
+    <string name="settings_share_app">Share App</string>
+    <string name="settings_about">About</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_terms">Terms and Conditions</string>
+    
+    <string name="storage_total_size">Total Downloaded</string>
+    <string name="storage_video_size">Video Storage</string>
+    <string name="storage_audio_size">Audio Storage</string>
+    <string name="storage_available">Available Storage</string>
+    <string name="storage_delete_all_videos">Delete All Videos</string>
+    <string name="storage_delete_all_audio">Delete All Audio</string>
+    <string name="storage_confirm_delete">This action cannot be undone. Continue?</string>
+    
+    <string name="file_info_name">File Name</string>
+    <string name="file_info_type">File Type</string>
+    <string name="file_info_size">File Size</string>
+    <string name="file_info_resolution">Resolution</string>
+    <string name="file_info_location">Location</string>
+    <string name="file_info_download_date">Download Date</string>
+    <string name="file_info_source">Source URL</string>
+    
+    <string name="about_version">Version</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_description">A powerful media downloader with clip editing capabilities</string>
+    <string name="about_contact">Contact</string>
+    <string name="about_website">Website</string>
+    
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_unsupported_url">Unsupported URL</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_storage">Insufficient storage space</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_unknown">An error occurred</string>
+    
+    <string name="success_clipboard_detected">Supported media link detected.</string>
+    <string name="success_analyze_link">Analyze Link</string>
+    <string name="success_download_started">Download started</string>
+    <string name="success_download_paused">Download paused</string>
+    <string name="success_download_resumed">Download resumed</string>
+    <string name="success_download_completed">Download completed</string>
+    <string name="success_download_failed">Download failed</string>
+    
+    <string name="a11y_toolbar_back">Back</string>
+    <string name="a11y_toolbar_navigate">Navigate</string>
+</resources>

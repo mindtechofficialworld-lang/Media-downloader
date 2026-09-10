@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.apk
+*.ap_
+
+# IDE
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+local.properties
+*.class
+*.jar
+*.aar
+*.zip
+
+# Runtime data
+*.log
+*.db
+*.db-shm
+*.db-wal
